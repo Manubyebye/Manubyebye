@@ -4,20 +4,26 @@
 </p>
 
 <div align="center">
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manubyebye&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=false&custom_title=Manubyebye%27s%20Stats)
+
+##
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manubyebye&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Manubyebye&theme=radical&hide_border=true&background=0D1117&fire=DD2727&ring=58A6FF)
 </div>
 
+##
+
 <div align="center">
 ## 🚀 Professional Profile
 
 **Manuel Javier Jordan Penagos** - Web & App Developer, creating robust environments and solid applications.
 
-### 🎯 Core Skills
+### 🎯 Core Skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,20 +31,20 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![API REST](https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=json&logoColor=white)
 
-### 📱 Multiplatform Development
+## 📱 Multiplatform Development:
  **Android & iOS** App Development
  **Web Applications** with modern frameworks
  **Desktop** applications
  **Responsive Design** & **PWA**
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-### ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
