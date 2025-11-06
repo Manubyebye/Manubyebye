@@ -5,10 +5,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manubyebye&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manubyebye&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Manubyebye&theme=radical&hide_border=true&background=0D1117&fire=DD2727&ring=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manubyebye&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=false&custom_title=Manubyebye%27s%20Stats)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manubyebye&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Manubyebye&theme=radical&hide_border=true&background=0D1117&fire=DD2727&ring=58A6FF)
 </div>
 
 <div align="center">
