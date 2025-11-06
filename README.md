@@ -1,20 +1,18 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/EM3vuwc.gif" width="280" alt="Anime Coding GIF" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Manubyebye&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=false" align="left" width="40%" height="60%" />
 
-<div align="center">
+<img src="https://i.imgur.com/EM3vuwc.gif" align="right" width="49%" alt="Anime Coding GIF" />
 
-##
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manubyebye&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" align="left" width="40%" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manubyebye&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=false&custom_title=Manubyebye%27s%20Stats)
+<br clear="both"/>
 
-##
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manubyebye&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Manubyebye&theme=radical&hide_border=true&background=0D1117&fire=DD2727&ring=58A6FF)
+<div>
+<img src="https://streak-stats.demolab.com?user=Manubyebye&theme=radical&hide_border=true&background=0D1117&fire=DD2727&ring=58A6FF" align="center" width="40%" />
 </div>
+
+
+<br clear="both"/>
 
 ##
 
