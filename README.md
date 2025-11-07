@@ -7,9 +7,6 @@
 
 <br clear="both"/>
 
-<div>
-<img src="https://streak-stats.demolab.com?user=Manubyebye&theme=radical&hide_border=true&background=0D1117&fire=DD2727&ring=58A6FF" align="center" width="40%" />
-</div>
 
 
 <br clear="both"/>
